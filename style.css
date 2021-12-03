@@ -28,11 +28,13 @@ header img{
     width: 120px;
     font-size: 20px;
     padding: 20px;
-    margin: 10px;
+   
     border-radius: 20px;
     display: flex;
 
     display: inline-block;
+    
+    margin: 0 auto; 
 
    
     
